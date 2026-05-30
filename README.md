@@ -40,7 +40,7 @@ Generated Password: A#7mK@9qP$2x
 
 # Installation
 Bash
-git clone https://github.com/rupeshyadav13/Password-generator-
+git clone https://github.com/rupeshyadav13/Password-Generator-tool-/tree/main
 cd password-generator
 python password_generator.py
 
